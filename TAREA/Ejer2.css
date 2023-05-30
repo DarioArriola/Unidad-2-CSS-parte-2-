@@ -1,0 +1,38 @@
+.contenedor2 {
+    background-color: rgb(185, 185, 172);
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row-reverse;
+
+}
+
+.item1 {
+    background-color: red;
+    width: 650px;
+    height: 650px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+.item2 {
+    background-color: blue;
+    width: 650px;
+    height: 650px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    border-radius: 10px;
+
+}
+
+.item3 {
+    background-color: green;
+    width: 650px;
+    height: 650px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0px;
+    border-radius: 10px;
